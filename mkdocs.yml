@@ -70,6 +70,11 @@ nav:
   - Galería: galeria.md
   - Ubicación: contacto.md
   - Recorridos:
-    - Recorridos: recorridos/recorridos.md
+    - Recorridos: 
+       - Principal: recorridos/recorridos.md
+       - Sendero 1: recorridos/sendero1.md
+       - Sendero 2: recorridos/sendero2.md
+       - Sendero 4: recorridos/sendero4.md
+       - Sendero 5: recorridos/sendero5.md
     - Catálogo de especies: recorridos/especies.md
   - Recursero: recursero.md
