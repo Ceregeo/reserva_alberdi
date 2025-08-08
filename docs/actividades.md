@@ -3,4 +3,4 @@ hide:
   - navigation
   - toc
 ---
-![Flyer](./imagenes/Salidas_24.jpg)
+![Flyer](./imagenes/visitas_guiadas.png)

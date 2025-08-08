@@ -114,6 +114,62 @@ hide:
     <p style="color: #fff; font-size: 0.95em;">Prosopis affinis Spreng.</p>
     <a href="https://drive.google.com/file/d/1WTc8PaWU_RpMKI7evr7a_pkTr5mn4Noe/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
   </div>
+  <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Mora</h3>
+    <p style="color: #fff; font-size: 0.95em;">Morus alba / Morus nigra</p>
+    <a href="https://drive.google.com/file/d/11QkJt7eWSPIaOuAo1hfzVOYdl5Wk9cke/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+    <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Molle</h3>
+    <p style="color: #fff; font-size: 0.95em;">Schinus  longifolius
+</p>
+    <a href="https://drive.google.com/file/d/1FLSGfrMTNrfXVcGYaRXPisGXItRYaPS5/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+  <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Ligustro</h3>
+    <p style="color: #fff; font-size: 0.95em;">Ligustrum lucidum</p>
+    <a href="https://drive.google.com/file/d/1PY0lKXDCd47RADYq7kvkmDQ9ifEJ72i9/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+  <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Helecho Plumoso</h3>
+    <p style="color: #fff; font-size: 0.95em;">Asparagus setaceus</p>
+    <a href="https://drive.google.com/file/d/1KHMmXwM7F5ybdHH9-m4pKHhXOflkfK2W/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+   <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Guayabo colorado</h3>
+    <p style="color: #fff; font-size: 0.95em;">Myrcianthes cisplatensis</p>
+    <a href="https://drive.google.com/file/d/1BwNikl_8P4N4CyX9n84vMwbxkv0vHNjU/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+  <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Espinillo</h3>
+    <p style="color: #fff; font-size: 0.95em;">Vachellia caven</p>
+    <a href="https://drive.google.com/file/d/13YLTMztOz30mNT4JDk1BY42nduVC0VJi/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+  <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Curupí</h3>
+    <p style="color: #fff; font-size: 0.95em;">Sapium haematospermum
+</p>
+    <a href="https://drive.google.com/file/d/13YLTMztOz30mNT4JDk1BY42nduVC0VJi/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+   <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Chañar</h3>
+    <p style="color: #fff; font-size: 0.95em;">Geoffroea decorticans
+</p>
+    <a href="https://drive.google.com/file/d/1-ISDk7xAX7wyQVQbno3RiDOa9x4da55F/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+  <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Canelón</h3>
+    <p style="color: #fff; font-size: 0.95em;">Myrsine laetevirens
+</p>
+    <a href="https://drive.google.com/file/d/1mZ3k246-_dARe8EKwsqLqsVy4kHzdKy-/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+   <div style="background: linear-gradient(135deg, #388e3c 60%, #4fc3f7 100%); border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 24px; width: 260px; text-align: center;">
+    <h3 style="margin: 10px 0 6px 0; color: #fff;">Algarrobo negro</h3>
+    <p style="color: #fff; font-size: 0.95em;">Prosopis nigra
+</p>
+    <a href="https://drive.google.com/file/d/1itMwRrnyfCWc4O7G1Vymm673OXOdx559/view?usp=sharing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background: #fff; color: #8cc34b; border-radius: 6px; font-weight: bold; text-decoration: none; transition: background 0.2s, color 0.2s;">Ver ficha</a>
+  </div>
+   
   <!-- Repite este bloque y cambia los datos para cada una de las 28 especies -->
   <!-- ... -->
 </div>

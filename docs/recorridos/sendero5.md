@@ -9,8 +9,15 @@ La presencia de jacarandá (Jacaranda mimosifolia), genera una situación un dob
 </p>
 <h2><b>3</b> - Fin de paleo-cauce, bandera española, acumulación de sedimentos, etapa de enredaderas varias.
 </h2>
+Antiguo cauce del arroyo, el cual continuó su recorrido unos metros más al norte. Se puede observar en el suelo acumulación de sedimentos y materia orgánica en el sendero. Además, destaca la presencia de bandera española (Lantana camara), una arbustiva que en ocasiones puede comportarse como trepadora, como también <b>malvavisco silvestre</b> (abutilon grandifolium). Así mismo, se puede observar presencia de <b>helechos plumosos</b> (Asparagus setaceus) en diferentes estadios, desde plántulas nuevas hasta aquellas bien desarrolladas generando la sobrecarga de ramas en los árboles. 
+
+
 <h2><b>4</b> - Monte nativo del espinal, grandes algarrobos, terreno elevado, problemática de la ruta.
 </h2>
+Monte nativo con presencia de especies propias de la Ecorregión Espinal como <b>algarrobo negro</b> (Neltuma nigra), <b>ñandubay</b> (Neltuma affinis), <b>tala</b> (Celtis sp.), <b>chañar</b> (Geoffroea decorticans), <b>molle</b> (Schinus longifolia), <b>palo tinta</b> o <b>virajú</b> (Achatocarpus praecox), <b>ombú</b> (Phytolacca dioica), entre otras. 
+Es un terreno elevado, donde la colonización de especies exóticas invasoras como ligustro o mora aún se ven muy reducidas, principalmente porque la primera de ellas se observó que se relaciona su dispersión en mayor relación a los cursos de agua.
+La problemática principal en este sector es la cercanía con la Ruta Provincial N°11, siendo la contaminación sonora lo que detectamos desde el sendero, pero además es una barrera entre la Reserva Esc. Alberdi y el la Reserva del Jardín Botánico de UNER, dificultando el paso de diferentes especies de animales, que en ocasiones se han encontrado atropellados.
+
 <h2><b>5</b> - Confluencia de arroyos, microambiente con palmeras washintonia y canaria, tembetarí.
 
 </h2>
