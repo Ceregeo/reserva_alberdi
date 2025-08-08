@@ -16,7 +16,7 @@ hide:
     <div class="container">
         <h1 id="reserva-juan-bautista-alberdi">Reserva de usos Múltiples Escuela Juan Bautista Alberdi</h1>
 
-        <p class="descripcion">El área natural protegida <strong>Escuela Normal Rural Juan Bautista Alberdi</strong> forma parte del sistema de áreas naturales protegidas de la provincia de Entre Ríos, abarcando aproximadamente 20 hectáreas. La UADER, a través de la FCyT y la FHAyCS, colabora y coordina diversas actividades en este espacio.
+        <p class="descripcion">La zona natural protegida <strong>Escuela Normal Rural Juan Bautista Alberdi</strong> es un área que está incluida en el sistema de áreas naturales protegidas de Entre Ríos y ocupa alrededor de 20 hectáreas.Esta página web compila las acciones realizadas en la reserva por la FCyT y la FHAyCS de la Universidad Autónoma de Entre Ríos, así como por otras instituciones.
         <br>
         Contáctanos👇</p>
 
